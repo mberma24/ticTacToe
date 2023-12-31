@@ -1,0 +1,53 @@
+commit 9bd67447944e558c9789f8731bbeb62ed5e29cb3
+Author: mberma24 <143347826+mberma24@users.noreply.github.com>
+Date:   Sun Dec 31 18:12:27 2023 -0500
+
+    added readme
+
+commit a16d253d66c97903885586d1b9d53ce13cc99c6e
+Author: mberma24 <143347826+mberma24@users.noreply.github.com>
+Date:   Sun Dec 31 18:06:19 2023 -0500
+
+    added the makefile
+
+commit 4d6c0acaa1f72ad7dcb7fb6d9ca0cae3221e93ce
+Author: mberma24 <143347826+mberma24@users.noreply.github.com>
+Date:   Sun Dec 31 18:06:07 2023 -0500
+
+    added the main file
+
+commit 72e123d0c2fdc334d3672ef0bfb30d51e6b2c7f4
+Author: mberma24 <143347826+mberma24@users.noreply.github.com>
+Date:   Sun Dec 31 18:05:51 2023 -0500
+
+    added cpp file encoding what types of moves can be played in the game
+
+commit 099b630767b77eab596d85f3608972a753c78127
+Author: mberma24 <143347826+mberma24@users.noreply.github.com>
+Date:   Sun Dec 31 18:04:59 2023 -0500
+
+    added cpp file representing the gameloop (when the game starts/ends, who takes what turn where, etc.)
+
+commit d36ae8c172c424dcf1c64c5c3cda74b4898ea924
+Author: mberma24 <143347826+mberma24@users.noreply.github.com>
+Date:   Sun Dec 31 18:02:13 2023 -0500
+
+    added cpp file representing the board the game will play on
+
+commit f58d90f86f0b22a93d3cb0693e35288057f37467
+Author: mberma24 <143347826+mberma24@users.noreply.github.com>
+Date:   Sun Dec 31 18:01:06 2023 -0500
+
+    added header file representing all the types of ai/human moves that could occur
+
+commit 8b209817af4e0afc3f879ec2d54326d6756581cc
+Author: mberma24 <143347826+mberma24@users.noreply.github.com>
+Date:   Sun Dec 31 17:59:44 2023 -0500
+
+    created the header file representing the game loop (keeps track of who takes turns when, etc
+
+commit c71fb7d3ed2da922d06a78c364cf73f876b12b55
+Author: mberma24 <143347826+mberma24@users.noreply.github.com>
+Date:   Sun Dec 31 17:58:32 2023 -0500
+
+    created header file representing the tictactoe board (old project im adding files 1 by 1)
