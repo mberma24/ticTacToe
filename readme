@@ -1,0 +1,5 @@
+Michael Berman
+
+This project is set out to create the game TicTacToe in the terminal, with both a two player option and one player option to play against. In the two player option, players will take turns playing the game like normal. In the single player option, the player will get to play against the computer given three basic difficulties. On the easy difficulty, the computer will make random moves each turn. For the medium difficulty, The AI will take every change it gets to win but make random moves aside from that. In the hard difficulty, the AI will always make the optimal move, using min-maxing and alpha-beta pruning. 
+
+This is an old project of mine I have decided to upload, so I uploaded everything at once (so my git log will not be as informative as my other projects).
